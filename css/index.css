@@ -1,0 +1,79 @@
+.main-card-section{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 48px;
+}
+.main-card-div{
+    background-color: #e5e5e5;
+    border-radius: 22spx;
+    max-width: px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+}
+.main-card-div span{
+color: grey;
+font-size:16px ;
+font-weight: 500;
+}
+.main-card-flex-div{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+}
+.cip{
+    max-width:56px ;
+    padding: 0s;
+}
+.cip img{
+    max-width: 56px;
+}
+.main h3{
+color: #000;
+font-size: 16px;
+font-weight: 600;
+margin-top: 0;
+margin-bottom: 0;
+}
+.faculty{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.code-div{
+    margin-right: 16px;
+}
+.code{
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+}
+.pic-sect i{
+    margin-top: 8px;
+    font-size: 56px;
+    color: blue;
+}
+.fullname{
+    margin-left: 48px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.birth-fin-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.adnsu img{
+width: 150px;
+}
+.birth h4{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.fin-pin h4{
+    margin-top: 0;
+    margin-bottom:0 ;
+}
